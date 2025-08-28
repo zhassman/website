@@ -1,1 +1,1 @@
-# <a href="https://zackhassman.com" target="_blank">zackhassman.com</a>
+# [zackhassman.com](https://zackhassman.com)
